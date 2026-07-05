@@ -18,7 +18,7 @@
     <spring.version>5.1.2.RELEASE</spring.version>
     <junit.version>4.13.2</junit.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <sonar.host.url>http://3.140.249.41:9000/</sonar.host.url>
+    <sonar.host.url>http://18.191.22.240:9000/</sonar.host.url>
     <sonar.login>admin</sonar.login>
     <sonar.password>Climate1404$</sonar.password>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
