@@ -109,6 +109,13 @@
         </configuration>
       </plugin>
 
+      <!-- Modern WAR plugin (fixes Jenkins BUILD FAILURE) -->
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-war-plugin</artifactId>
+        <version>3.3.2</version>
+      </plugin>
+
       <plugin>
         <groupId>org.eclipse.jetty</groupId>
         <artifactId>jetty-maven-plugin</artifactId>
@@ -122,6 +129,4 @@
       </plugin>
 
     </plugins>
-  </build>
-
-</project>
+</build>
